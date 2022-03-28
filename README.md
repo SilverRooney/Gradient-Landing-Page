@@ -1,6 +1,6 @@
 # Gradient-Landing-Page
 HTML, CSS, Bootstrap, and Java Script, landing page for front end. It has a color gradient of morning, evening, and night, depending on which button you click.
-Good practice for front-end development.
+
 
 
 Morning
